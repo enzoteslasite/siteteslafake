@@ -1,0 +1,62 @@
+h1
+{
+     color: black;
+	 text-align:center;
+}
+
+#matable tr:hover{
+  background-color:darkblue;
+}
+
+
+
+
+body
+{
+	background-color:lightgrey;
+	
+}
+
+#carte
+{
+	 width: 1000px;
+	 height:1000px;
+	 margin:0;
+	 background-color:transparent;
+	 text-align:left;
+	 align-content:center;
+	 position:absolute;
+	 top:100px;
+	 left:100px;
+	 right:100px;
+}
+
+ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:10px;
+	background-color:transparent;
+	overflow:hidden;
+	border-width:1px;
+	border-style:solid;
+	border-color:black;
+}
+li {
+	float:left;
+}
+li a {
+	color:white;
+	padding:20px;
+	text-decoration:none;
+	display:block;
+}
+
+li a:hover{
+	background-color:lightpink;
+}
+h2
+{
+	color:white;
+}
+	

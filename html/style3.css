@@ -1,0 +1,9 @@
+body
+ {
+ background-image: url("interieur.jpg");
+ background-color: #cccccc;
+ background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+ color:darkorange;
+}
